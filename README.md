@@ -1,4 +1,4 @@
-# ByeDPI for Android
+# myRPC для Linux
 
 **English** | [Русский](README-ru.md)
 
