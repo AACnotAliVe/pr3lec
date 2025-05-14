@@ -1,11 +1,5 @@
 # myRPC для Linux
 
-**English**
-
-<div style="text-align: center;">
-  <img alt="ByeDPI logo" src=".github/images/logo.svg" width="100%" height="200px">
-</div>
-
 ---
 
 Android application that runs a local VPN service to bypass DPI (Deep Packet Inspection) and censorship.
