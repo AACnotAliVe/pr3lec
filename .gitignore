@@ -1,1 +1,10 @@
-
+/build/
+/repo/
+/*.deb
+*.o
+*.a
+*.log
+*.so
+server
+client
+lib
